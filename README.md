@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Skills
-- 🐍 **Python** — 빠른 백엔드 & 봇 개발  
+- 🐍 **Python** — Fast backend & bot development  
 - ⚡ **JavaScript (Node.js)** — Web services, APIs, automation  
 - 🌙 **Lua** — Roblox scripting & game logic  
 
