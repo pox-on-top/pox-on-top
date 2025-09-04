@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Skills
-- 🐍 **Python** — Fast backend & bot development  
+- 🐍 **Python** — 빠른 백엔드 & 봇 개발  
 - ⚡ **JavaScript (Node.js)** — Web services, APIs, automation  
 - 🌙 **Lua** — Roblox scripting & game logic  
 
@@ -19,7 +19,8 @@
 ---
 
 ## 📫 Contact
-- Discord: **@jiwon_cheat**  
+- Discord: **@jiwon_cheat**
+- Email: rocket_hunter.kr@proton.me
 - GitHub: [pox-on-top](https://github.com/pox-on-top)  
 
 ---
