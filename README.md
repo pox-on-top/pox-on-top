@@ -23,4 +23,4 @@
 - GitHub: [pox-on-top](https://github.com/pox-on-top)  
 
 ---
-✨ *Always building something new, always learning.*  
+✨ *항상 새로운 것을 학습하고, 배웁니다.*  
