@@ -33,5 +33,4 @@ For me, coding is not just work, it's a way to bring ideas into reality. Whether
 
 ---
 
-✨ Always exploring, always creating.  
-Thanks for visiting my profile, and feel free to check out my repositories. Who knows—you might find something useful, inspiring, or even fun! 🚀
+✨ 프로필을 방문해 주셔서 감사합니다!  
