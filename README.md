@@ -17,20 +17,19 @@ For me, coding is not just work, it's a way to bring ideas into reality. Whether
 
 ---
 
-## 🏆 Achievements
-- 📜 Certified as **CPS Computer Programmer Level 2** by 한국정보통신진흥협회  
-- 🔒 Participated in the **KISA Bug Bounty Program** (한국인터넷진흥원) to help make the web a safer place  
+## 🏆 Achievements  
+- 📜 **CPS 컴퓨터 프로그래머 2급 자격증** (한국정보통신진흥협회)  
+- 🔒 **KISA 버그 바운티 프로그램** (한국인터넷진흥원) 참가 경험  
 
-These experiences helped me strengthen my problem-solving mindset and my ability to dig deep into technical challenges.
+이러한 경험은 저의 문제 해결 능력과 깊이 있는 기술 탐구 역량을 키워주었습니다.  
 
 ---
 
-## 📬 Let's Connect
-I'm always open to collaborating, learning, or just chatting about tech!  
-You can reach me through:
-- ✉️ **Email**: me@dpox.shop  
-- 💬 **Discord**: @you_pox  
-- 📡 **Telegram**: @its_pox  
+## 📬 Contact  
+- ✉️ **이메일**: me@dpox.shop  
+- 💬 **디스코드**: @you_pox  
+- 📡 **텔레그램**: @its_pox  
+
 
 ---
 
