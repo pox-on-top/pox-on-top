@@ -38,6 +38,15 @@ For me, coding is not just work, it's a way to bring ideas into reality. Whether
 
 다양한 실전 경험을 가진 개발자 입니다.
 
+
+---
+
+## 💼 개발 외주 의뢰하기  
+혹시 맞춤형 개발 작업을 원하시나요?  
+저에게 **디스코드 봇, 웹, 자동화 툴, 로블록스 게임 로직 개발** 등을 의뢰하실 수 있습니다.  
+
+👉 [크몽에서 외주 의뢰하기](https://kmong.com/@%EB%B8%94%EB%9F%AC%EC%8A%A4)  
+
 ---
 
 ## 📬 Contact  
