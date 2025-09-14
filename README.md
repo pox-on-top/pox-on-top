@@ -1,5 +1,8 @@
 # 👋 Hey there, I'm Pox!
 
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=POX%20GitHub&fontSize=50&animation=fadeIn&fontAlignY=35) 
+
 Welcome to my GitHub profile! Thanks for stopping by.  
 I'm a developer who loves mixing creativity with code, and I mainly work with **Python, JavaScript, C, and Lua**.  
 I enjoy building projects that are fun, practical, and sometimes a little unexpected.
@@ -14,6 +17,18 @@ I spend most of my time working on:
 - ⚙️ **Automation** – because life’s too short to do repetitive stuff manually!
 
 For me, coding is not just work, it's a way to bring ideas into reality. Whether it's automating something boring, building a game system, or creating an engaging app, I just love the process of making things *work*.
+
+---
+
+## 🛠️ Tech Stack  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)  
+![Discord Bots](https://img.shields.io/badge/Discord%20Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)  
+![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)  
+![Web](https://img.shields.io/badge/Web%20Dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)  
 
 ---
 
