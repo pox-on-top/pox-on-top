@@ -19,7 +19,7 @@
 ---
 
 ## 📫 Contact
-- Discord: **@jiwon_cheat**
+- Discord: **@you_pox**
 - Email: rocket_hunter.kr@proton.me
 - GitHub: [pox-on-top](https://github.com/pox-on-top)  
 
