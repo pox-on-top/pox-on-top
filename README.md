@@ -30,7 +30,7 @@ I'm always open to collaborating, learning, or just chatting about tech!
 You can reach me through:
 - ✉️ **Email**: me@dpox.shop  
 - 💬 **Discord**: @you_pox  
-- 📡 **Telegram**: its_pox  
+- 📡 **Telegram**: @its_pox  
 
 ---
 
