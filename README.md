@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm 폭스 (POX)!
+# 👋 Hey there, I'm Pox!
 
 Welcome to my GitHub profile! Thanks for stopping by.  
 I'm a developer who loves mixing creativity with code, and I mainly work with **Python, JavaScript, C, and Lua**.  
