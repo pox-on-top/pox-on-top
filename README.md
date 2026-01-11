@@ -62,4 +62,4 @@ For me, coding is not just work, it's a way to bring ideas into reality. Whether
 
 ---
 
-✨ 프로필을 방문해 주셔서 감사합니다!  
+✨ 프로필에 방문해 주셔서 감사합니다!  
