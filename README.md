@@ -55,9 +55,9 @@ For me, coding is not just work, it's a way to bring ideas into reality. Whether
 ---
 
 ## 📬 Contact  
-- ✉️ **이메일**: me@dpox.shop  
-- 💬 **디스코드**: @you_pox  
-- 📡 **텔레그램**: @its_pox  
+- ✉️ **이메일**: me@fynix.cloud
+- 💬 **디스코드**: @fynix.06
+- 📡 **텔레그램**: @jawn05
 
 
 ---
