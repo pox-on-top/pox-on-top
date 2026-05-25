@@ -38,8 +38,6 @@ For me, coding is not just work, it's a way to bring ideas into reality. Whether
 ---
 
 ## 🏆 Achievements  
-- 📜 **CPS 컴퓨터 프로그래머 2급 자격증** (한국정보통신진흥협회)  
-- 🔒 **KISA 버그 바운티 프로그램** (한국인터넷진흥원) 참가 경험  
 
 다양한 실전 경험을 가진 개발자 입니다.
 
